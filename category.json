@@ -1,0 +1,56 @@
+{
+    {
+        "id":1,
+        "category":"Mobiles"
+    }
+    {
+        "id":2,
+        "category":"laptop"
+    }
+   {
+       "id":3,
+       "category":"Fashion"
+   }
+   {
+       "id":4,
+       "category":"pantry"
+   }
+   {
+    "id":5,
+    "category":"Electronics"
+   }
+   {
+     "id":6,
+     "category":"Appliances"
+   }
+   {
+       "id":7,
+       "category":"Essentials"
+   }
+   {
+       "id":8 ,
+       "category":"Books"
+   }
+   {
+       "id":9 ,
+        "category":"Toys"
+   }
+   {
+      "id":10 ,
+      "category":"Our Brands"
+    }
+    {
+       "id": 11,
+      "category":"Devices"
+    }
+    
+
+
+
+
+
+
+
+
+
+}

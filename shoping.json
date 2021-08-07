@@ -1,0 +1,188 @@
+{
+    {
+        "id":1,
+        "catogery":"Mobiles",
+        "category_id":1,
+        "name":"Iphonex",
+        "rating":4.5,
+        "price":100000,
+        "image":  "https://i.ibb.co/rpVdFFj/iphonex.jpg",
+        "color":"Black"   ,
+        "company":"Apple"
+    },
+    {
+        "id":2,
+        "catogery":"Mobiles",
+        "category_id":1,
+        "name":"Iphone11pro",
+        "rating":4.3,
+        "price":120000,
+        "image":  "https://i.ibb.co/CJ0tG2M/iphone.jpg"      ,
+        "color": "white"  ,
+        "company":"Apple"
+    },
+    {
+        "id":3,
+        "catogery":"Mobiles",
+        "category_id":1,
+        "name":"Android",
+        "rating":4.2,
+        "price":30000,
+        "image":"https://i.ibb.co/rd3Crtt/vivo.jpg"
+        "color": "Black"   ,
+        "company":"vivo"
+        
+    },
+    {
+        "id":4,
+        "catogery":"Mobiles",
+        "category_id":1,
+        "name":"Android",
+        "rating":4.0,
+        "price":10000,
+        "image": "https://i.ibb.co/1Z16fQV/oppo.jpg"      ,
+        "color": "black"   ,
+        "company":"oppo"
+    },
+    {
+        "id":5,
+        "catogery":"Mobiles",
+        "category_id":1,
+        "name":"Android",
+        "rating":3.5,
+        "price":11000,
+        "image": "https://i.ibb.co/JkFKGD4/samsung.jpg"      ,
+        "color": "white" ,
+        "company":"Samsung"
+    },
+    {
+        "id":6,
+        "catogery":"laptop",
+        "category_id":2,
+        "name":"laptop",
+        "rating":4.5,
+        "price":50000,
+        "image": "https://i.ibb.co/W6yd7nK/hp.jpg"      ,
+        "color":"black"    ,
+        "company":"hp"
+    },
+    {
+        "id":7,
+        "catogery":"laptop",
+        "category_id":2,
+        "name":"laptop",
+        "rating":4.0,
+        "price":30000,
+        "image": "https://i.ibb.co/FnvCHK0/dell.jpg"      ,
+        "color":  "black"  ,
+        "company":"dell"
+    },
+    {
+        "id":8,
+        "catogery":"laptop",
+        "category_id":2,
+        "name":"laptop",
+        "rating":4.8,
+        "price":40000,
+        "image":"https://i.ibb.co/Qv9mYTx/Asus.jpg",
+        "color": "black"   ,
+        "company":"Asus"
+    },
+    {
+        "id":9,
+        "catogery":"Fashion",
+        "category_id":3,
+        "name":"shirt",
+        "rating":4.0,
+        "price":1000,
+        "image":"https://i.ibb.co/wCJ29gS/shirt.jpg",
+        "color": "blue"  ,
+        "type":"full sleeve",
+        "gender":"male"
+    },
+    {
+        "id":10,
+        "catogery":"Fashion",
+        "category_id":3,
+        "name":"t-shirt",
+        "rating":4.1,
+        "price":300,
+        "image": "https://i.ibb.co/4NMdPrK/t-shirt.jpg"      ,
+        "color": "orange"   ,
+        "type":"half sleeve",
+        "gender":"male"
+    },
+    {
+        "id":11,
+        "catogery":"Fashion",
+        "category_id":3,
+        "name":"top",
+        "rating":4.0,
+        "price":1000,
+        "image":"https://i.ibb.co/Dg8yg8J/top.jpg" ,
+        "color":"blue"    ,
+        "type":"full sleeve",
+        "gender":"female"
+    },
+    {
+        "id":12,
+        "catogery":"Fashion",
+        "category_id":3,
+        "name":"top",
+        "rating":4.1,
+        "price":2000,
+        "image":"https://i.ibb.co/9pvJV8F/top1.jpg",
+        "color": "green"  ,
+        "type":"full sleeve",
+        "gender":"female"
+    },
+
+    {
+        "id":13,
+        "catogery":"pantry",
+        "category_id":4,
+        "name":"maggi",
+        "rating":3.5,
+        "price":50,
+        "image": "https://i.ibb.co/TM0jyhW/maggi.jpg"
+        
+    },
+    {
+        "id":14,
+        "catogery":"pantry",
+        "category_id":4,
+        "name":"shirt",
+        "rating":3.0,
+        "price":100,
+        "image": "https://i.ibb.co/GFqgxJt/biskit.jpg" 
+
+        
+        
+        
+    },
+    {
+        "id":15,
+        "catogery":"Electronics",
+        "category_id":5,
+        "name":"camera",
+        "rating":4.1,
+        "price":85000,
+        "image":  "https://i.ibb.co/RymBc1s/camera.jpg",
+        "color":"Black"   ,
+        "compan":"niklon"
+
+    },
+    {
+        "id":16,
+        "catogery":"Electronics",
+        "category_id":5,
+        "name":"camera",
+        "rating":5,
+        "price":80000,
+        "image":"https://i.ibb.co/RymBc1s/camera.jpg",
+        "color":"Black"   ,
+        "company":"sony"
+    },
+    
+
+}
